@@ -1,5 +1,5 @@
 {
-  "name": "flexible",
+  "name": "lm-flexible",
   "version": "0.1.0",
   "description": "flexible for rem",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "rem",
     "px"
   ],
-  "author": "冯德旺",
+  "author": "David Feng && mxr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FFF-team/flexible/issues"

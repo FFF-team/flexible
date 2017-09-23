@@ -1,3 +1,6 @@
+//只适用于 rem 布局的页面  flexible默认使用 ./changeRem
+//
+
 /**
  *
  */
